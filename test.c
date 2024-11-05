@@ -1,5 +1,5 @@
 #include<stdio.h>
 
 void main (){
-    prinf("Test code");
+    prinf("Test code in git");
 }
